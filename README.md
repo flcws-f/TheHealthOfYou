@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TheHealthOfYou.
 - 🇨🇳 I'm a Chinese man.
-- 💻 I like Python,HTML,Lua.
+- 💻 I like Python,HTML,VBS,CSS.
 - 🌱 I'm currently learning.
 - 📱/💻 I'm programming in the cellphone or computer programming program.
 
