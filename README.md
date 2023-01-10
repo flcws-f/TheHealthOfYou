@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TheHealthOfYou.
-- 🇨🇳 I'm a Chinese man.
+- 🇨🇳 I'm a Chinese boy.
 - 💻 I like Python,HTML,VBS,CSS.
 - 🌱 I'm currently learning primary school's knowledge and knowledge of programming.
 - 📱/💻 I'm programming in the cellphone or computer programming program.
